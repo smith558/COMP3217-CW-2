@@ -1,6 +1,6 @@
 # COMP3217-CW-2
 
-before running install 
+before working with the Jupyter notebooks run these commands:
 
 ```
 conda env create -f environment.yml
