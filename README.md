@@ -7,5 +7,5 @@ conda env create -f environment.yml
 ```
 
 ```
-conda activate <env_name>
+conda activate grid
 ```
